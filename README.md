@@ -29,6 +29,7 @@ end the program
 
 ## Program:
 ```
+
 #Program to find the eigen values and eigen vectors.
 #Developed by: PREM KUMAR K 
 #RegisterNumber: 212222230111
@@ -36,10 +37,11 @@ import numpy as np
 A=np.array([[4,2],[2,4]])
 evalues,evector=np.linalg.eig(A)
 print("Eigen values are",evalues,"and Eigen Vectors are",evector)
+
     ```
 ## Output:
 
-![4th exp mathh](https://github.com/premkumarkarthikeyan/EIGENVALUES-AND-EIGENVECTORS/assets/119476243/d27ac7a6-6967-4f0c-acf5-179c2e3645f4)
+[4th exp mathh](https://github.com/premkumarkarthikeyan/EIGENVALUES-AND-EIGENVECTORS/assets/119476243/d27ac7a6-6967-4f0c-acf5-179c2e3645f4)
 
 ## Result:
 
