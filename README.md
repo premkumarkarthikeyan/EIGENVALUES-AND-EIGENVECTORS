@@ -41,7 +41,8 @@ print("Eigen values are",evalues,"and Eigen Vectors are",evector)
     ```
 ## Output:
 
-[4th exp mathh](https://github.com/premkumarkarthikeyan/EIGENVALUES-AND-EIGENVECTORS/assets/119476243/d27ac7a6-6967-4f0c-acf5-179c2e3645f4)
+![4th exp mathh](https://github.com/premkumarkarthikeyan/EIGENVALUES-AND-EIGENVECTORS/assets/119476243/2603d56e-2bc3-4840-9efb-0baba8062d85)
+
 
 ## Result:
 
