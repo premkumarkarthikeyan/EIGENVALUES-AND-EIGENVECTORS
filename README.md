@@ -38,7 +38,8 @@ A=np.array([[4,2],[2,4]])
 evalues,evector=np.linalg.eig(A)
 print("Eigen values are",evalues,"and Eigen Vectors are",evector)
 
-   ```
+ ```
+ 
 ## Output:
 
 ![image](https://github.com/premkumarkarthikeyan/EIGENVALUES-AND-EIGENVECTORS/assets/119476243/2c022104-1e60-4e72-bf79-2e6ce3f3b272)
