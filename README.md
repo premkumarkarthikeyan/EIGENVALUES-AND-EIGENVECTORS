@@ -1,6 +1,5 @@
 # EIGENVALUES-AND-EIGENVECTORS
 
-
 ## Aim:
 
 To write a python program to find the Eigenvalues and Eigen Vectors
@@ -39,7 +38,7 @@ A=np.array([[4,2],[2,4]])
 evalues,evector=np.linalg.eig(A)
 print("Eigen values are",evalues,"and Eigen Vectors are",evector)
 
-    ```
+   ```
 ## Output:
 
 [4th exp mathh](https://github.com/premkumarkarthikeyan/EIGENVALUES-AND-EIGENVECTORS/assets/119476243/2603d56e-2bc3-4840-9efb-0baba8062d85)
@@ -47,4 +46,4 @@ print("Eigen values are",evalues,"and Eigen Vectors are",evector)
 
 ## Result:
 
-Thus the Eigenvalue and Eigenvector is successfully solved using python program
+Thus the Eigenvalue and Eigenvector is successfully solved using python program.
